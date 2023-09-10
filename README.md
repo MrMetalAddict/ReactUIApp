@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+git remote set-url --delete origin <URL>git remote set-url --delete origin <URL># Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
